@@ -1,3 +1,3 @@
 # LearnNext
 Getting started with next 
-just following the instruction as here am for the first time on the got hub
+This one is simple next js starter project where a simple admin dashboard has been created using the project given in the nextjs documentation .
